@@ -5,7 +5,7 @@ else
 end
 if esx then 
 ESX = exports["es_extended"]:getSharedObject()
-print("[Zaps] Tuner Started. | Framework Loaded ESX.")
+print("[Zaps] Cookies Started. | Framework Loaded ESX.")
 -- for users on esx 1.1
 --CreateThread(function()
   --  while ESX == nil do
